@@ -1,4 +1,4 @@
-h1. Trap Door - Reverse Captcha for Rails
+h1. Trap Door - Reverse Captcha for Rails 4.x
 
 Unobtrusive Captcha for your Rails forms. Trap Door works by adding a hidden "honeypot" field to your forms that only a spam bot will fill out. A before filter checks for the presence of this field and banishes bots to a "spam trap":http://en.wikipedia.org/wiki/User:Mike_Rosoft/Spambot.
 
